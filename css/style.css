@@ -1145,6 +1145,8 @@
 
 		#footer p, #footer a, #footer li {
 			color: #cdced0;
+			text-align: center;
+			
 		}
 
 		#footer .links {
